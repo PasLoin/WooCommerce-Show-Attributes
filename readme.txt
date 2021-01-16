@@ -3,7 +3,7 @@ Contributors: isabel104
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R7BHLMCQ437SS
 Tags: product attributes, woocommerce product attributes, woocommerce attributes, woocommerce, attributes
 Requires at least: 3.8
-Tested up to: 5.0-alpha-42420
+Tested up to: 5.6
 Stable tag: 1.6.4
 License: GNU Version 2 or Any Later Venrsion
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
