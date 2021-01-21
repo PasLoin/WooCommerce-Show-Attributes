@@ -26,11 +26,11 @@ msgstr ""
 
 # wpml-name: e9b6eb510ffbc0b0ab3c0bb970c2059d
 msgid "Show Attribute Terms as Links"
-msgstr ""
+msgstr "Afficher les termes d'attribut sous forme de liens"
 
 # wpml-name: ac50d5344cd1ad467be3fee635659095
 msgid "Extra Options"
-msgstr ""
+msgstr "Options supplémentaires"
 
 # wpml-name: b878797a368375f5ca7595f9e3e4fa48
 msgid "Show product dimensions on the Order Details page on the back end, listed under \"Order Items\"."
@@ -194,7 +194,7 @@ msgstr ""
 
 # wpml-name: bafd7322c6e97d25b6299b5d6fe8920b
 msgid "No"
-msgstr ""
+msgstr "Non"
 
 # wpml-name: b15fc0ad7e99ce58e197eb4476d99b3c
 msgid "Whether to show attributes on the main shop page and shop category pages."
@@ -226,7 +226,7 @@ msgstr ""
 
 # wpml-name: 287234a1ff35a314b5b6bc4e5828e745
 msgid "Attributes"
-msgstr ""
+msgstr "Attributs"
 
 # wpml-name: deb10517653c255364175796ace3553f
 msgid "Product"
